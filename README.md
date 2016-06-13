@@ -4,6 +4,8 @@ ROS Driver for neoIV RED device, based on:
   - http://students.asl.ethz.ch/upl_pdf/151-report.pdf
   - https://github.com/intrepidcs/icsneoapi.git
 
+Publishes CAN Bus Data in a custom msg.
+
 # prerequisites & installation
 
 ````
